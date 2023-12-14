@@ -1,0 +1,4 @@
+1. SELECT nazwa FROM towary WHERE promocja = 1
+2. SELECT cena FROM towary where nazwa = "Markery 4 szt."
+3. 
+4. ALTER TABLE dostawcy ADD informacje varchar(15)
